@@ -1,0 +1,762 @@
+[Root]
+Most Recent Package=Standard Setup Package 2
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\SCHOOL
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSDERUN.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=Yes
+C:\WINDOWS\system32\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+H:\New Folder\School Automation System\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=$(AppPath)
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSDERUN.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+H:\New Folder\School Automation System\Project1.exe=Yes
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=Yes
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=SCHOOL AUTOMATION SYSTEM
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=SCHOOL AUTOMATION SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|SCHOOL AUTOMATION SYSTEM]
+Icon1=Project1.EXE
+Title1=SCHOOL AUTOMATION SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=H:\SCHOOL
+ProjectFolder=E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir
+ServerSideCab=
+File1=H:\SCHOOL\setup.exe
+File2=H:\SCHOOL\Setup.Lst
+File3=H:\SCHOOL\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=H:\SCHOOL
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSDERUN.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Msflxgrd.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=Yes
+C:\WINDOWS\system32\odbc32.dll=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\WINDOWS\system32\Msflxgrd.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+H:\New Folder\School Automation System\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=$(AppPath)
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSDERUN.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\odbc32.dll=$(WinSysPathSysFile)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\WINDOWS\system32\Msflxgrd.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+H:\New Folder\School Automation System\Project1.exe=Yes
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=Yes
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=SCHOOL AUTOMATION SYSTEM
+
+[Package|Dep File 1|IconGroups]
+Group0=SCHOOL AUTOMATION SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Dep File 1|SCHOOL AUTOMATION SYSTEM]
+Icon1=Project1.EXE
+Title1=SCHOOL AUTOMATION SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=H:\SCHOOL
+ProjectFolder=D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir
+ServerSideCab=
+File1=H:\SCHOOL\Project1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SCHOOL|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\SCHOOL AUTOMATION SYSTEM
+
+[Package|SCHOOL|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SCHOOL|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SCHOOL|Files Found]
+
+[Package|SCHOOL|Files Released]
+
+[Package|SCHOOL|Missing Dependency Information]
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSDERUN.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+
+[Package|SCHOOL|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Msflxgrd.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+
+[Package|SCHOOL|Files Added]
+
+[Package|SCHOOL|Files Removed]
+
+[Package|SCHOOL|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\Msflxgrd.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=Yes
+
+[Package|SCHOOL|Configure Registry Files]
+Applicable=No
+
+[Package|SCHOOL|Configure Remote Servers]
+Applicable=No
+
+[Package|SCHOOL|Install Locations]
+H:\New Folder\School Automation System\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=$(AppPath)
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSDERUN.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=$(AppPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\Msflxgrd.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+
+[Package|SCHOOL|Configure Shared Files]
+Applicable=Yes
+H:\New Folder\School Automation System\Project1.exe=Yes
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=Yes
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=No
+
+[Package|SCHOOL|Distribution]
+Type=single
+Size=
+Title=SCHOOL AUTOMATION SYSTEM
+
+[Package|SCHOOL|IconGroups]
+Group0=SCHOOL AUTOMATION SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|SCHOOL|SCHOOL AUTOMATION SYSTEM]
+Icon1=Project1.EXE
+Title1=SCHOOL AUTOMATION SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SCHOOL|Package]
+PackageFolder=H:\SCHOOL AUTOMATION SYSTEM
+ProjectFolder=D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir
+ServerSideCab=
+File1=H:\SCHOOL AUTOMATION SYSTEM\setup.exe
+File2=H:\SCHOOL AUTOMATION SYSTEM\Setup.Lst
+File3=H:\SCHOOL AUTOMATION SYSTEM\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|School Automation System|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\School Automation System
+
+[Package|School Automation System|Configure DAO ISAMs]
+Applicable=No
+
+[Package|School Automation System|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|School Automation System|Files Found]
+
+[Package|School Automation System|Files Released]
+
+[Package|School Automation System|Missing Dependency Information]
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSDERUN.DLL=
+C:\WINDOWS\system32\FLEXWIZ.OCX=
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=
+
+[Package|School Automation System|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Msflxgrd.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+
+[Package|School Automation System|Files Added]
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=
+
+[Package|School Automation System|Files Removed]
+
+[Package|School Automation System|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\Msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLEXWIZ.OCX=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=Yes
+
+[Package|School Automation System|Configure Registry Files]
+Applicable=No
+
+[Package|School Automation System|Configure Remote Servers]
+Applicable=No
+
+[Package|School Automation System|Install Locations]
+H:\New Folder\School Automation System\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\School Wizard 4.1\MSDERUN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=$(AppPath)
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\MSDERUN.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=$(AppPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\Msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLEXWIZ.OCX=$(WinSysPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=$(AppPath)
+
+[Package|School Automation System|Configure Shared Files]
+Applicable=Yes
+H:\New Folder\School Automation System\Project1.exe=Yes
+H:\SCHOOL AUTOMATION SYSTEM 2004\School Automation System\Project1.exe=Yes
+E:\Subaskar\SLIIT_2\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School- OwnDir\Project1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=No
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=Yes
+
+[Package|School Automation System|Distribution]
+Type=single
+Size=
+Title=SCHOOL AUTOMATION SYSTEM
+
+[Package|School Automation System|IconGroups]
+Group0=SCHOOL AUTOMATION SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|School Automation System|SCHOOL AUTOMATION SYSTEM]
+Icon1=Project1.EXE
+Title1=SCHOOL AUTOMATION SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|School Automation System|Package]
+PackageFolder=H:\School Automation System
+ProjectFolder=D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir
+ServerSideCab=
+File1=H:\School Automation System\setup.exe
+File2=H:\School Automation System\Setup.Lst
+File3=H:\School Automation System\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=h:\SAS
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\FLEXWIZ.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Msflxgrd.ocx=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 2|Files Added]
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\HelpFiles\SASHELP.HLP=
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\mschrt20.ocx=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\Msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLEXWIZ.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\HelpFiles\SASHELP.HLP=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLEXWIZ.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\HelpFiles\SASHELP.HLP=$(AppPath)
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\Project1.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir\HelpFiles\SASHELP.HLP=Yes
+D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\KeyGenerator\KeyGenerator.exe=Yes
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=SCHOOL AUTOMATION SYSTEM
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=SCHOOL AUTOMATION SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|SCHOOL AUTOMATION SYSTEM]
+Icon1=Project1.exe
+Title1=SCHOOL AUTOMATION SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=h:\SAS
+ProjectFolder=D:\Subaskar\SLIIT-Notes\2nd Year SLIIT\SemesterII\Project\SCHOOL AUTOMATION SYSTEM 2004\School Final\School- OwnDir
+ServerSideCab=
+File1=h:\SAS\setup.exe
+File2=h:\SAS\Setup.Lst
+File3=h:\SAS\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

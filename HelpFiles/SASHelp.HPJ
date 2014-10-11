@@ -1,0 +1,24 @@
+; This file is maintained by WHD. Do not modify this file directly.
+;
+; This help project was created with Windows Help Designer V 2.2.3.0
+; *** UNREGISTERED ***
+; Windows Help Designer is copyright (C) 1996, 1998, by Nick Ameladiotis
+; Visit http://www.devgr.com for more informations
+;
+[OPTIONS]
+REPORT=Yes
+ERRORLOG=D:\Subaskar\SLIIT-~1\2NDYEA~1\SEMEST~2\Project\SCHOOL~1\SCHOOL~1\SCHOOL~1\HELPFI~1\SASHelp.LOG
+
+[WINDOWS]
+main="", , 0,(255,255,225),(192,192,192),  ; 
+
+[FILES]
+SASHelp.RTF
+
+[MAP]
+Topic1=0x1
+Topic4=0x4
+Topic5=0x5
+Topic6=0x6
+Topic7=0x7
+Topic8=0x8
